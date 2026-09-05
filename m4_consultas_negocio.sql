@@ -1,3 +1,5 @@
+-- Consulta base de datos: Ventas_Tech_DB
+
 -- Consulta 1
 SELECT 
     MONTH(fecha_venta) AS mes,
