@@ -20,14 +20,18 @@ A través de consultas SQL optimizadas, el proyecto analiza:
 
 ---
 
+## 🚀 Cómo Ejecutar los Scripts SQL
+Requisitos Previos
+Tener instalado un cliente o motor de base de datos SQL (por ejemplo, SQL Server Management Studio, MySQL Workbench o DBeaver).
+
+Disponer del esquema e información cargada en la base de datos Ventas_Tech_DB
+
+---
+
 ## 📂 Estructura del Repositorio
 
 ├── README.md                  # Descripción general e instrucciones del proyecto
 ├── m5_consultas_joins.sql     # Consultas relacionales (INNER JOIN, LEFT JOIN, UNION)
 └── m4_consultas_negocio.sql   # Consultas de agregación, métricas comerciales y KPIs
 
-🚀 Cómo Ejecutar los Scripts SQL
-Requisitos Previos
-Tener instalado un cliente o motor de base de datos SQL (por ejemplo, SQL Server Management Studio, MySQL Workbench o DBeaver).
 
-Disponer del esquema e información cargada en la base de datos Ventas_Tech_DB
