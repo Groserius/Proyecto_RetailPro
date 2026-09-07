@@ -1,14 +1,13 @@
 # RetailPro — Análisis Transaccional y Rendimiento Comercial
 
 ## 📝 Descripción del Proyecto
-**RetailPro** es un proyecto enfocado en la gestión, consulta y análisis transaccional de datos de ventas de retail tecnológico (`Ventas_Tech_DB`).
-El objetivo principal es transformar datos relacionales dispersos en métricas e indicadores clave de negocio (KPIs) para la toma de decisiones del equipo comercial.
+**RetailPro** es una solución integral de análisis de datos orientada a la gestión y evaluación del desempeño comercial de una empresa de tecnología en retail (`Ventas_Tech_DB`). El proyecto transforma datos relacionales crudos en métricas de alto impacto (KPIs) para respaldar la toma de decisiones estratégicas del equipo de ventas y dirección.
 
 A través de consultas SQL optimizadas, el proyecto analiza:
-* Comportamiento mensual de ventas, volumen de transacciones y ticket promedio.
-* Identificación de clientes inactivos, recurrencia de compras.
-* Evaluación de productos estrella y rotación de inventarios.
-* Segmentación de canales y evaluación del cumplimiento de metas financieras.
+* Comportamiento mensual de ventas, volumen de pedidos y evolución del ticket promedio.
+* Fidelización de clientes, tasa de recurrencia e identificación de cuentas inactivas.
+* Ranking de productos estrella, volumen de ventas y detección de inventario sin rotación.
+* Evaluación del cumplimiento de objetivos financieros y segmentación por canales operacionales.
 
 ---
 
